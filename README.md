@@ -3,7 +3,7 @@
 
 ## Projects
 
-### 2. Malware Detection
+### 1. Malware Detection
 - **Tools Used**: Python
 - **Objective**: Develop a tool to detect malware by analyzing file behavior and characteristics.
 - **Key Features**:
