@@ -3,13 +3,15 @@
 
 ## Projects
 
-### 1. Password Checker
-- **Tools Used:** Python
-- **Objective:**  Develop a tool to evaluate the strength of user passwords and provide feedback for improvement
-- **Key Features:**
-  - Checks for common vulnerabilities in passwords.
-  - Provides a strength score and suggestions for enhancement.
-- **Outcome:** Enhanced user awareness regarding password security and promoted the use of stronger passwords.
+### 2. Malware Detection
+- **Tools Used**: Python
+- **Objective**: Develop a tool to detect malware by analyzing file behavior and characteristics.
+- **Key Features**:
+  - Monitors file system changes to identify suspicious activities.
+  - Executes files in a sandbox environment to observe behavior.
+  - Analyzes execution logs to detect potential malicious actions.
+- **Outcome**: Created a reliable system to detect and analyze malware, enhancing cybersecurity measures.
+
 
 ### 2. Phishing Detection
 - **Tools Used:** Python
